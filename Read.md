@@ -8,7 +8,6 @@ Benin
 China
 Mexico
 Mongolia''';
-  print(str.replaceAll('\n', ','));
   var a = str.split('\n');
   print(a);
 ```
